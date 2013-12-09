@@ -1,0 +1,21 @@
+{
+  "name": "twitter-socket-search",
+  "version": "0.0.0",
+  "description": "Search twitter with web sockets",
+  "main": "Gulpfile.js",
+  "dependencies": {
+    "gulp": "~3.0.0",
+    "gulp-concat": "~2.0.0",
+    "gulp-minify-css": "~0.1.0",
+    "gulp-uglify": "~0.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lkysow/twitter-socket-search.git"
+  },
+  "author": "Luke Kysow",
+  "bugs": {
+    "url": "https://github.com/lkysow/twitter-socket-search/issues"
+  }
+}

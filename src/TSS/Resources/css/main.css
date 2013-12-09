@@ -1,0 +1,33 @@
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.tweet {
+    max-width: 520px;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+
+.profile-image {
+    float: left;
+    margin-top: 4px;
+}
+
+.tweet-content {
+    margin-left: 60px;
+}
+
+.full-name {
+    color: black;
+    font-weight: bold;
+}
+
+.time {
+    float: right;
+    color: #999;
+}
+
+.form-group .control-label {
+    padding-right: 0;
+}
